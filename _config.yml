@@ -1,9 +1,7 @@
-name: ""
-description: ""
-
-url: "//ycpcs.github.io/cs370-fall2018"
-
+baseurl: "//ycpcs.github.io/cs370-fall2018"
 markdown: kramdown
+highlighter: rouge
+coursename: "CS 370"
+
 kramdown:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-highlighter: rouge
