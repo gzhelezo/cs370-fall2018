@@ -46,7 +46,7 @@ Course Structure and Expectations
 
 Class meetings will be primarily discussion of questions related to the topic and/or working on corresponding lab exercises which are designed to illustrate the concepts from the lecture notes. Thus you should come to each class meeting prepared to work on the lab with any questions on the material. A series of homework assignments that will consist of both written and programming parts and will be assigned at approximately 1-2 week intervals, to be completed individually.
 
-All the labs and assignments are cross platform so you may use either Visual Studio 2015 (Windows), XCode (Mac), or command line (Linux). Refer to the [Resources](resources.html) page for installation instructions for the various external libraries needed for the course.
+All the labs and assignments are cross platform so you may use either Visual Studio 2017 (Windows), XCode (Mac), or command line (Linux). Refer to the [Resources](resources.html) page for installation instructions for the various external libraries needed for the course.
 
 There will be periodic in-class reading quizzes, homework assignments, three midterm exams and one final project.
 
