@@ -19,6 +19,7 @@ All information about the course will be posted here.
 ## News
 
 * **Aug 28** - Welcome back!
+* **Sept 13** - [Assignment 1](assign/assign01.html)  (Don Quixote) Due.
   
 <!--
 * **Aug 29** - Welcome back!
