@@ -86,7 +86,7 @@ Grading Criteria
 -   Blocks: 10 points
 -   Train body: 10 points
 
-**Milestone 2** - 65 points
+**Milestone 2** - 55 points
 
 -   Complete train: 15 points
 -   Train perspective: 10 points
