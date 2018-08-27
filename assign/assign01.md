@@ -51,23 +51,15 @@ Grading Criteria
 
 **The program MUST compile to receive any credit** (so develop incrementally).
 
-> Initialization (main): 15 points
->
-> Shaded sky: 15 points
->
-> Shaded grass: 10 points
->
-> Shaded sun: 15 points
->
-> Windmill: 15 points
->
-> Instance objects: 10 points
->
-> Fan: 5 points
->
-> Animation (keyboard, idle callbacks): 5 points
->
-> Creativity: 10 points
+-   Initialization (main): 15 points
+-   Shaded sky: 15 points
+-   Shaded grass: 10 points
+-   Shaded sun: 15 points
+-   Windmill: 15 points
+-   Instance objects: 10 points
+-   Fan: 5 points
+-   Animation (keyboard, idle callbacks): 5 points
+-   Creativity: 10 points
 
 *Be creative!* For example, have the \<space\> act like a "puff" of air that starts the fan spinning but then gradually slows down until another \<space\> is pressed. Another option would be to add a keypress that changes the scene from day to night with the sun changing to a moon.
 
