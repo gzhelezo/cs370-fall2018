@@ -18,6 +18,16 @@ OP: [OpenGL: A Primer – 3rd Edition.](http://www.pearsonhighered.com/educator/
 > Sept 6   | [Lab 6: User Interaction and Animation](../labs/lab06.html) | OP: Ch. 3 | [CS370_Lab06.zip](../labs/src/CS370_Lab06.zip)
 > Sept 11  | [Lab 7: 3D Orthographic Projection](../labs/lab07.html) | OPG: Ch. 5 <br /> OP: Ch. 4 | [CS370_Lab07.zip](../labs/src/CS370_Lab07.zip) 
 > Sept 13  | [Lab 8: 3D Perspective Projection](../labs/lab08.html) <br /> **Assignment 1 Due** |  | [CS370_Lab08.zip](../labs/src/CS370_Lab08.zip)
+> Sept 18  | [Lab 9: Time-based Animation and Fonts](../labs/lab09.html) |  | [CS370_Lab09.zip](../labs/src/CS370_Lab09.zip)
+> Sept 20  | [Lab 10: Basic GLSL I](../labs/lab10.html) <br /> **Assignment 2 Milestone 1 Due 9/21** | OPG: Ch. 2 <br /> OP: Ch. 10 | [CS370_Lab10.zip](../labs/src/CS370_Lab10.zip)
+> Sept 25  | [Lab 11: Basic GLSL II](../labs/lab11.html)  |  | [CS370_Lab11.zip](../labs/src/CS370_Lab11.zip)
+> Sept 27  | Exam Review **Assignment 2 Written Due** | |
+> Oct 2    | **EXAM I** <br /> **Assignment 2 Milestone 2 Due 10/1** | |
+> Oct 4    | [Lab 12: Basic Lighting](../labs/lab12.html) <br /> [Lab 13: Light Sources](../labs/lab13.html) | OPG: Ch. 7 <br /> OP: Ch. 6 | [CS370_Lab12.zip](../labs/src/CS370_Lab12.zip) <br /> [CS370_Lab13.zip](../labs/src/CS370_Lab13.zip)
+> Oct 9   | [Lab 14: Recursive Subdivision](../labs/lab14.html) |  | [CS370_Lab14.zip](../labs/src/CS370_Lab14.zip)
+> Oct 11   | [Lab 15: Simple Shadows](../labs/lab15.html)  |  | [CS370_Lab15.zip](../labs/src/CS370_Lab15.zip)
+> Oct 16   | **NO CLASS - Fall Break** | |
+> Oct 18   | [Lab 16: Scene Graphs](../labs/lab16.html) <br /> **Final Project Milestone 1 Due** |  | [CS370_Lab16.zip](../labs/src/CS370_Lab16.zip)
 
 
 <!--

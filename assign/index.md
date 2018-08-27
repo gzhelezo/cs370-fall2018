@@ -8,7 +8,7 @@ This page links to programming assignments.
 > Assignment | File | Written Due | Program Due | Solutions |
 > ---------- | ---- | ----------- | ----------- | --------- |
 > [Assignment 1: Don Quixote](assign01.html)       | [CS370_Assign01.zip](src/CS370_Assign01.zip) | **Sept 13** | **Sept 13** |  |
-> [Assignment 2: Rollin Train](assign02.html)      | [CS370_Assign02.zip](src/CS370_Assign02.zip) | **Sept 27**   | **Oct 1** |  |
+> [Assignment 2: Rollin Train](assign02.html)      | [CS370_Assign02.zip](src/CS370_Assign02.zip) | **Sept 27**   | **Milestone 1: Sept 21** <br /> **Milestone 2: Oct 1** |  |
 > [Final Project: Think Inside the Box](project.html) <br /> [Evaluation Form](CS370_Final_Project_eval.docx) <br /> [Submission Instructions](ProjectSubmit.html) | [CS370_Project.zip](src/CS370_Project.zip) <br /> Milestone 1 - Basic Geometry <br /> Milestone 2 - Lighting and Movement | |  <br /> **Oct 18** <br /> **Nov 20** | |
 
 <!--

@@ -15,6 +15,14 @@ Although the labs are not graded and you are not required to submit them, they a
 > Sept 6  | [Lab 6: User Interaction and Animation](lab06.html) | [CS370_Lab06.zip](src/CS370_Lab06.zip) | [CS370_Lab06Sol.zip](sol/CS370_Lab06Sol.zip)
 > Sept 11 | [Lab 7: 3D Orthographic Projection](lab07.html) | [CS370_Lab07.zip](src/CS370_Lab07.zip) | [CS370_Lab07Sol.zip](sol/CS370_Lab07Sol.zip)
 > Sept 13 | [Lab 8: 3D Perspective Projection](lab08.html) | [CS370_Lab08.zip](src/CS370_Lab08.zip) | [CS370_Lab08Sol.zip](sol/CS370_Lab08Sol.zip)
+> Sept 18 | [Lab 9: Time-based Animation and Fonts](lab09.html) | [CS370_Lab09.zip](src/CS370_Lab09.zip) | [CS370_Lab09Sol.zip](sol/CS370_Lab09Sol.zip)
+> Sept 20 | [Lab 10: Basic GLSL I - Using Shaders](lab10.html) | [CS370_Lab10.zip](src/CS370_Lab10.zip) | [CS370_Lab10Sol.zip](sol/CS370_Lab10Sol.zip)
+> Sept 25 | [Lab 11: Basic GLSL II - Writing Shaders](lab11.html) | [CS370_Lab11.zip](src/CS370_Lab11.zip) | [CS370_Lab11Sol.zip](sol/CS370_Lab11Sol.zip)
+> Oct 9   | [Lab 12: Basic Lighting](lab12.html) | [CS370_Lab12.zip](src/CS370_Lab12.zip) | [CS370_Lab12Sol.zip](sol/CS370_Lab12Sol.zip)
+> Oct 11  | [Lab 13: Light Sources](lab13.html) | [CS370_Lab13.zip](src/CS370_Lab13.zip) | [CS370_Lab13Sol.zip](sol/CS370_Lab13Sol.zip)
+> Oct 18  | [Lab 14: Recursive Subdivision](lab14.html) | [CS370_Lab14.zip](src/CS370_Lab14.zip) | [CS370_Lab14Sol.zip](sol/CS370_Lab14Sol.zip)
+> Oct 23  | [Lab 15: Simple Shadows](lab15.html) | [CS370_Lab15.zip](src/CS370_Lab15.zip) | [CS370_Lab15Sol.zip](sol/CS370_Lab15Sol.zip)
+> Oct 25  | [Lab 16: Scene Graphs](lab16.html) | [CS370_Lab16.zip](src/CS370_Lab16.zip) | [CS370_Lab16Sol.zip](sol/CS370_Lab16Sol.zip)
 
 <!--
 > Aug 31  | [Lab 2: Basic Geometry](lab02.html) <br /> [Lab 3: Linear Algebra](lab03.html)| [CS370_Lab02.zip](src/CS370_Lab02.zip) <br /> [CS370_Lab03.zip](src/CS370_Lab03.zip)| [CS370_Lab02Sol.zip](sol/CS370_Lab02Sol.zip) <br /> [CS370_Lab03Sol.zip](sol/CS370_Lab03Sol.zip)
