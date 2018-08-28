@@ -24,7 +24,7 @@ All information about the course will be posted here.
 * **Sept 27**/**Oct 1** - [Assignment 2](assign/assign02.html) Milestone 2 (Rollin Train) Due.
 * **Oct 2 - EXAM I**
 * **Oct 16** - NO CLASS - Fall Break.
-* **Oct 18** - [FINAL PROJECT](assign/project.html), Milestone 1 Demo.
+* **Oct 18** - [Final Project](assign/project.html), Milestone 1 Demo.
   
 <!--
 * **Aug 29** - Welcome back!
