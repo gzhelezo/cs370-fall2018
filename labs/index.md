@@ -22,6 +22,12 @@ Although the labs are not graded and you are not required to submit them, they a
 > Oct 9  | [Lab 14: Recursive Subdivision](lab14.html) | [CS370_Lab14.zip](src/CS370_Lab14.zip) | [CS370_Lab14Sol.zip](sol/CS370_Lab14Sol.zip)
 > Oct 11  | [Lab 15: Simple Shadows](lab15.html) | [CS370_Lab15.zip](src/CS370_Lab15.zip) | [CS370_Lab15Sol.zip](sol/CS370_Lab15Sol.zip)
 > Oct 18  | [Lab 16: Scene Graphs](lab16.html) | [CS370_Lab16.zip](src/CS370_Lab16.zip) | [CS370_Lab16Sol.zip](sol/CS370_Lab16Sol.zip)
+> Oct 23  | [Lab 17: Alpha Blending (Transparency)](lab17.html) | [CS370_Lab17.zip](src/CS370_Lab17.zip) | [CS370_Lab17Sol.zip](sol/CS370_Lab17Sol.zip)
+> Oct 25  | [Lab 18: Billboarding](lab18.html) | [CS370_Lab18.zip](src/CS370_Lab18.zip) | [CS370_Lab18Sol.zip](sol/CS370_Lab18Sol.zip)
+> Nov 6   | [Lab 19: Texture Mapping](lab19.html) | [CS370_Lab19.zip](src/CS370_Lab19.zip) | [CS370_Lab19Sol.zip](sol/CS370_Lab19Sol.zip)
+> Nov 8   | [Lab 20: Environment Mapping](lab20.html) | [CS370_Lab20.zip](src/CS370_Lab20.zip) | [CS370_Lab20Sol.zip](sol/CS370_Lab20Sol.zip)
+> Nov 13  | [Lab 21: Multitexturing](lab21.html) | [CS370_Lab21.zip](src/CS370_Lab21.zip) | [CS370_Lab21Sol.zip](sol/CS370_Lab21Sol.zip)
+> Nov 15  | [Lab 22: Bumpmapping](lab22.html) | [CS370_Lab22.zip](src/CS370_Lab22.zip) | [CS370_Lab22Sol.zip](sol/CS370_Lab22Sol.zip)
 
 <!--
 > Aug 31  | [Lab 2: Basic Geometry](lab02.html) <br /> [Lab 3: Linear Algebra](lab03.html)| [CS370_Lab02.zip](src/CS370_Lab02.zip) <br /> [CS370_Lab03.zip](src/CS370_Lab03.zip)| [CS370_Lab02Sol.zip](sol/CS370_Lab02Sol.zip) <br /> [CS370_Lab03Sol.zip](sol/CS370_Lab03Sol.zip)

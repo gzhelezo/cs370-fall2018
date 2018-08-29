@@ -9,6 +9,8 @@ This page links to programming assignments.
 > ---------- | ---- | ----------- | ----------- | --------- |
 > [Assignment 1: Don Quixote](assign01.html)       | [CS370_Assign01.zip](src/CS370_Assign01.zip) | **Sept 13** | **Sept 13** |  |
 > [Assignment 2: Rollin Train](assign02.html)      | [CS370_Assign02.zip](src/CS370_Assign02.zip) | **Sept 27**   | **Milestone 1: Sept 21** <br /> **Milestone 2: Oct 1** |  |
+> [Assignment 3: Limelight](assign03.html)         | [CS370_Assign03.zip](src/CS370_Assign03.zip) | **Oct 30**   | **Milestone 1: Oct 23** <br /> **Milestone 2: Oct 30** |  |
+> [Assignment 4: TeaMan](assign04.html)            | [CS370_Assign04.zip](src/CS370_Assign04.zip) | **Nov 27**   | **Milestone 1: Nov 13** <br /> **Milestone 2: Nov 28** |  |
 > [Final Project: Think Inside the Box](project.html) <br /> [Evaluation Form](CS370_Final_Project_eval.docx) <br /> [Submission Instructions](ProjectSubmit.html) | [CS370_Project.zip](src/CS370_Project.zip) <br /> Milestone 1 - Basic Geometry <br /> Milestone 2 - Lighting and Movement | |  <br /> **Oct 18** <br /> **Nov 20** | |
 
 <!--
