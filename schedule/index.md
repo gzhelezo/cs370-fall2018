@@ -28,18 +28,18 @@ OP: [OpenGL: A Primer – 3rd Edition.](http://www.pearsonhighered.com/educator/
 > Oct 11   | [Lab 15: Simple Shadows](../labs/lab15.html)  |  | [CS370_Lab15.zip](../labs/src/CS370_Lab15.zip)
 > Oct 16   | **NO CLASS - Fall Break** | |
 > Oct 18   | [Lab 16: Scene Graphs](../labs/lab16.html) <br /> **Final Project Milestone 1 Due** |  | [CS370_Lab16.zip](../labs/src/CS370_Lab16.zip)
-> Oct 23   | [Lab 17: Alpha Blending](../labs/lab17.html) | OPG: Ch. 4 <br /> OP: Ch. 6.10 | [CS370_Lab17.zip](../labs/src/CS370_Lab17.zip)
+> Oct 23   | [Lab 17: Alpha Blending](../labs/lab17.html) <br /> **Assignment 3 Milestone 1 Due 10/23**| OPG: Ch. 4 <br /> OP: Ch. 6.10 | [CS370_Lab17.zip](../labs/src/CS370_Lab17.zip)
 > Oct 25   | [Lab 18: Billboarding](../labs/lab18.html) |  | [CS370_Lab18.zip](../labs/src/CS370_Lab18.zip)
-> Oct 30   | Exam Review <br /> **Assignment 3 Due** |  | 
-> Nov 1    | **EXAM II** | |
+> Oct 30   | Exam Review <br /> **Assignment 3 Written Due** |  | 
+> Nov 1    | **EXAM II** <br /> **Assignment 3 Milestone 2 Due 10/31** | |
 > Nov 6    | [Lab 19: Texture Mapping](../labs/lab19.html) | OPG: Ch. 6 <br /> OP: Ch. 8 | [CS370_Lab19.zip](../labs/src/CS370_Lab19.zip)
 > Nov 8    | [Lab 20: Environment Mapping](../labs/lab20.html) |  | [CS370_Lab20.zip](../labs/src/CS370_Lab20.zip)
-> Nov 13   | [Lab 21: Multitexturing](../labs/lab21.html) |  | [CS370_Lab21.zip](../labs/src/CS370_Lab21.zip)
+> Nov 13   | [Lab 21: Multitexturing](../labs/lab21.html) <br /> **Assignment 4 Milestone 1 Due 11/13** |  | [CS370_Lab21.zip](../labs/src/CS370_Lab21.zip)
 > Nov 15   | [Lab 22: Bumpmapping](../labs/lab22.html) | OPG: Ch. 8 | [CS370_Lab22.zip](../labs/src/CS370_Lab22.zip)
-> Nov 20   | **Milestone 2 Due** |  | 
+> Nov 20   | **Final Project Milestone 2 Due** |  | 
 > Nov 22   | **NO CLASS - Thanksgiving Break** | |
-> Nov 27   | Exam Review  |  | 
-> Nov 29   | **EXAM III** <br /> **Assignment 4 Due** | |
+> Nov 27   | Exam Review <br /> **Assignment 4 Written Due** |  | 
+> Nov 29   | **EXAM III** <br /> **Assignment 4 Milestone 2 Due 11/28** | |
 > Dec 4    | Project workday | |
 > Dec 6    | Project workday | |
 > Dec 11   | Project workday | |
