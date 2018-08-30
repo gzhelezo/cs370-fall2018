@@ -145,9 +145,13 @@ To quit the program simply close the window.
 Submitting to Marmoset
 ======================
 
-To submit your completed assignment, open a cygwin terminal window, navigate to the working directory and type:
+To submit your completed assignment, open a terminal window, navigate to the working directory and type:
 
-    make submit
+    make submit_ms1
+    
+or
+
+    make submit_ms2
 
 Then enter your Marmoset id and password. You should see a confirmation that the file was submitted successfully.
 
