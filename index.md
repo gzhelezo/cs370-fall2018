@@ -24,8 +24,8 @@ All information about the course will be posted here.
 * **Sept 27**/**Oct 1** - [Assignment 2](assign/assign02.html) (Rollin Train) Milestone 2 Due.
 * **Oct 2 - EXAM I**
 * **Oct 16** - NO CLASS - Fall Break.
-* **Oct 18** - [Final Project](assign/project.html), Milestone 1 Demo.
-* **Oct 23** - [Assignment 3](assign/assign03.html) (Limelight) Milestone 1 Due.
+* **Oct 18** - [Assignment 3](assign/assign03.html) (Limelight) Milestone 1 Due.
+* **Oct 23** - [Final Project](assign/project.html), Milestone 1 Demo.
 * **Oct 30** - [Assignment 3](assign/assign03.html) (Limelight) Milestone 2 Due.
 * **Nov 1 - EXAM II**
 * **Nov 13** - [Assignment 4](assign/assign04.html) (TeaMan) Milestone 1 Due.
