@@ -91,7 +91,7 @@ NOTE: DO NOT forget to call the update function whenever the local transformatio
     > -   Left upper arm - translate up by **LOWER\_HEIGHT** (to position it on top of the lower arm) and over in *x* by **-(LOWER\_WIDTH + UPPER\_WIDTH)/2.0** (to position it on the left side of the lower arm) then rotate by angle **left\_psi** about the *x*-axis.
     > -   Right upper arm - translate up by **LOWER\_HEIGHT** (to position it on top of the lower arm) and over in *x* by **(LOWER\_WIDTH + UPPER\_WIDTH)/2.0** (to position it on the right side of the lower arm) then rotate by angle **right\_psi** about the *x*-axis.
 
--   Add code to each of the four update routines to retrieve the local transformation matrix (just before the **glPopMatrix( )**) using **glGetFloatfv( )** and store the matrix into the appropriate node's matrix field.
+-   Add code to each of the four update routines to retrieve the local transformation matrix (just before the **glPopMatrix( )**) using **glGetFloatv( )** and store the matrix into the appropriate node's matrix field.
 -   Add code to **build\_scene\_graph( )** to call the respective update functions for each node (otherwise they will not be initialized properly).
 -   Add code to **keyfunc( )** to call the respective update functions whenever a transformation variable is changed. NOTE: This step is extremely important if you wish any user input to affect the scene. Likewise if animation was being used, the update functions would also need to be called for any objects that moved on each update (but not for any that have not changed their *relative* position).
 
